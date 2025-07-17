@@ -1,4 +1,7 @@
 @startuml
+entity New {
+}
+
 entity Пользователь {
 }
 
