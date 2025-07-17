@@ -1,8 +1,15 @@
 @startuml
+entity New {
+  name : string
+  created_at : datetime
+  is_active : boolean
+}
+
 entity Пользователь {
 }
 
 entity Заказ {
+Номер заказа
 }
 
 entity Товар {
