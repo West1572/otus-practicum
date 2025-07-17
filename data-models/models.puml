@@ -1,5 +1,8 @@
 @startuml
 entity New {
+  name : string
+  created_at : datetime
+  is_active : boolean
 }
 
 entity Пользователь {
