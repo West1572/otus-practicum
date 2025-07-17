@@ -1,0 +1,33 @@
+@startuml
+entity Пользователь {
+}
+
+entity Заказ {
+}
+
+entity Товар {
+}
+
+entity КомбоБургер {
+}
+
+entity Ингредиент {
+
+}
+
+
+entity Платеж {
+
+}
+
+entity БанковскаяКарта {
+
+}
+
+
+entity Чек {
+}
+
+entity Корзина {
+}
+@enduml
